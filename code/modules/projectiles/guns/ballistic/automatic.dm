@@ -537,7 +537,6 @@
 	can_suppress = FALSE
 	can_attachments = TRUE
 	spread = 12
-	can_suppress = TRUE
 	suppressor_state = "uzi_suppressor"
 	suppressor_x_offset = 26
 	suppressor_y_offset = 19
@@ -1286,9 +1285,9 @@
 	item_state = "smg9mm"
 	mag_type = /obj/item/ammo_box/magazine/uzim9mm
 	burst_size = 2
-	burst_shot_delay = 1
+	burst_shot_delay = 2
 	fire_delay = 1
-	spread = 14
+	spread = 11
 	extra_damage = -2
 	can_attachments = TRUE
 	can_suppress = FALSE

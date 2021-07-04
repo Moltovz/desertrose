@@ -609,7 +609,7 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	icon_state = "Vexillarius"
 
 /obj/effect/landmark/start/f13/vetlegionary
-	name = "Veteran Legionary"
+	name = "Veteran Legionnaire"
 	icon_state = "Veteran Legionnaire"
 
 /obj/effect/landmark/start/f13/decan
@@ -617,7 +617,7 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	icon_state = "Decanus"
 
 /obj/effect/landmark/start/f13/legionary
-	name = "Prime Legionary"
+	name = "Prime Legionnaire"
 	icon_state = "Veteran Legionnaire"
 
 /obj/effect/landmark/start/f13/decanrec
@@ -625,7 +625,7 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	icon_state = "Decanus"
 
 /obj/effect/landmark/start/f13/recleg
-	name = "Recruit Legionary"
+	name = "Recruit Legionnaire"
 	icon_state = "Legionary"
 
 /obj/effect/landmark/start/f13/explorer
@@ -637,11 +637,12 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	icon_state = "Legionary"
 
 /obj/effect/landmark/start/f13/auxilia
-	name = "Auxilia"
+	name = "Household Slave"
 	icon_state = "Wastelander"
 
 /obj/effect/landmark/start/f13/campfollower
-	name = "Camp Follower"
+	name = "Camp Duty"
+	icon_state = "Legionary"
 
 /obj/effect/landmark/start/f13/slave
 	name = "Legion Slave"
@@ -658,7 +659,7 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	icon_state = "Head Scribe"
 
 /obj/effect/landmark/start/f13/seniorscribe
-	name = "Proctor"
+	name = "Senior Scribe"
 	icon_state = "Head Scribe"
 
 /obj/effect/landmark/start/f13/sentinel
@@ -670,11 +671,11 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	icon_state = "Initiate Knight"
 
 /obj/effect/landmark/start/f13/seniorknight
-	name = "Star Knight"
+	name = "Senior Knight"
 	icon_state = "Initiate Knight"
 
 /obj/effect/landmark/start/f13/seniorpaladin
-	name = "Star Paladin"
+	name = "Senior Paladin"
 	icon_state = "Knight"
 
 /obj/effect/landmark/start/f13/paladin
